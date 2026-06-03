@@ -106,8 +106,6 @@ Raw Data → Data Cleaning → Data Analysis → Visualization → Dashboarding 
 The projects collectively demonstrate the ability to transform data into actionable insights and support informed business decisions.
 
 
-GitHub: Add GitHub Profile Link
 
-LinkedIn: Add LinkedIn Profile Link
 
 ⭐ Thank you for visiting this portfolio. Feedback and collaboration opportunities are always welcome.
