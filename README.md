@@ -35,7 +35,7 @@ Performed comprehensive data cleaning and preprocessing on a Project Management 
 
 Repository
 
-🔗 Add Task 1 Repository Link
+
 
 🔹 Task 2 – Exploratory Data Analysis & Business Intelligence
 Project Summary
@@ -44,7 +44,7 @@ Analyzed employee data using SQL and Python to generate meaningful business insi
 
 Repository
 
-🔗 Add Task 2 Repository Link
+
 
 🔹 Task 3 – Deep Dive Analysis & Interactive Dashboarding
 Project Summary
@@ -53,7 +53,6 @@ Developed an interactive HR Analytics Dashboard using Power BI to visualize work
 
 Repository
 
-🔗 Add Task 3 Repository Link
 
 🔹 Task 4 – Business Narrative & Statistical Analysis
 Project Summary
@@ -62,7 +61,7 @@ Converted analytical findings into a compelling business narrative and validated
 
 Repository
 
-🔗 Add Task 4 Repository Link
+
 
 🛠️ Technical Skills Demonstrated
 Programming & Analytics
@@ -106,15 +105,6 @@ Raw Data → Data Cleaning → Data Analysis → Visualization → Dashboarding 
 
 The projects collectively demonstrate the ability to transform data into actionable insights and support informed business decisions.
 
-📄 Final Presentation
-
-The complete internship presentation can be found in this repository:
-
-Internship_Presentation.pptx
-Internship_Presentation.pdf
-📬 Contact
-
-Name: N. Reddi Hari Sankar
 
 GitHub: Add GitHub Profile Link
 
